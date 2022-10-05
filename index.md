@@ -4,7 +4,7 @@ title: About
 language: en
 ---
 
-<img src="/assets/latinfestival-logo.png" width="500" height="500" class="center" alt="Latin Festival in Happy Valley Logo; those words surrounded by a yellow circle"  >
+<img src="/assets/latinfestival-logo.png" width="500" height="500" margin-left="auto" margin-right="auto" alt="Latin Festival in Happy Valley Logo; those words surrounded by a yellow circle"  >
  
 The Happy Valley Latin Festival in a one-day music and arts festival bringing together Latin music, art & crafts vendors showcasing the vibrance and diversity of the Latino / Hispanic culture in Central Pennsylvania. Adianez “Ady” Martinez, owner of Juana’s Venezuelan Cuisine Restaurant conceptualized and developed with the efforts of community members the Happy Valley Latin Festival, bringing together Latino / Hispanic talents. The first Happy Valley Latin Festival took place at the Dr. Martin Luther King Plaza, Fraser St., State College, PA in 2021.
 Following the festival’s first year success, Latin Vibe Alliance, a Non-Profit Organization was established.
