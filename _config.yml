@@ -21,8 +21,8 @@ description:
   en: A language, a feeling, we are family, to the rhythm of the same beat!
   es: ¡Un idioma, un sentir, somos familia, al ritmo de un mismo son!
 footer:
-  en: Un evento organizado por la comunidad. Multilingual web frame by <a href="http://multilingualdh.org">multilingualdh</a> 
-  es: An event organized by the community. Marco web multilingüe de <a href="http://multilingualdh.org">multilingualdh</a>
+  en: An event organized by the community. Marco web multilingüe de <a href="http://multilingualdh.org">multilingualdh</a>
+  es: Un evento organizado por la comunidad. Multilingual web frame by <a href="http://multilingualdh.org">multilingualdh</a>
   
   #can add an image to the footer with <img src="//www.mysite.com/wp-content/uploads/image.jpg" />
 exclude: 
